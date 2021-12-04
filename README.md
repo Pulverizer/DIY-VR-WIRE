@@ -11,7 +11,7 @@ This repository may contain affiliate links that - at no additional cost to you 
 Having seen VR-Wire online you've probably gone to try and purchase it, but to your dismay it only ships from the US for an expensive sum.  
 Fear not! We are here to show how you could DIY your own VR-Wire solution!
 
-Some experimentation will be required to get a setup that works for you, however, I recommend that you watch the offical VR-Wire setup videos for a starting point and some inspiration.
+Some experimentation will be required to get a setup that works for you, however, I recommend that you watch the [offical VR-Wire setup videos](https://vr-wire.com/pages/setup-guide) for a starting point and some inspiration.
 
 ## Required Items
 - [**KIWI Design [Pro Version] VR Cable Management Pulley System**](https://amzn.to/3lBIByp)
